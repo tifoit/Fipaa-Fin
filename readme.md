@@ -42,15 +42,7 @@ To get started with Fipaa-Fin, follow these steps:
    python infer.py --model_path /path/to/finetuned/model
 
 
-4.**Model Training**:
-   Run the training script with the prepared dataset:
-   ```bash
-   python train.py --data_path /path/to/your/dataset
 
-5.**Model Inference**:
-   Use the fine-tuned model for inference on new data:
-   ```bash
-   python infer.py --model_path /path/to/finetuned/model
 
 
 
