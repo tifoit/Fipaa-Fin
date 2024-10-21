@@ -59,7 +59,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Citation
 
 If you use Fipaa-Fin in your research, please cite our paper:
-`Duan, Z., Shi, Q., & Liu, Z. (2024). Interpretation of textual information in annual reports of listed companies -based on a fine-tuned large language model. Preprint submitted to Elsevier.`
+
+Duan, Z., Shi, Q., & Liu, Z. (2024). Interpretation of textual information in annual reports of listed companies -based on a fine-tuned large language model. Preprint submitted to Elsevier.
 
 ## Contact
 
