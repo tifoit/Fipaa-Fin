@@ -41,12 +41,12 @@ To get started with Fipaa-Fin, follow these steps:
    ```bash
    python infer.py --model_path /path/to/finetuned/model
 
-## Key Features
+## Documentation
 
-- **Fine-tuned Large Language Model (LLM)**: Fipaa-Fin, a model specifically designed for analyzing textual disclosures in financial reports.
-- **Open-source Dataset (FFM-findata)**: A dataset based on annual report data used for training and testing the model.
-- **Advanced Text Mining Techniques**: Utilizes chain-of-thought reasoning and prompt engineering to create a unique multi-round dialogue dataset for financial analysis.
-
+- **Model Details**: The `models` directory contains the code for the Fipaa-Fin model and other related modules.
+- **Dataset Structure**: The `data` directory includes the structure and examples of the dataset used in this study.
+- **Training Scripts**: The `training` directory contains scripts for training the model.
+- **Inference Scripts**: The `inference` directory contains scripts for using the trained model for predictions.
 
 
 
