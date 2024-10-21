@@ -39,7 +39,7 @@ To get started with Fipaa-Fin, follow these steps:
 5. **Model Inference**:
    Use the fine-tuned model for inference on new data:
    ```bash
-   python infer.py --model_path /path/to/finetuned/model
+   python infer.py --model_path models/finetuned/finetuned_model.pth
 
 ## Documentation
 
