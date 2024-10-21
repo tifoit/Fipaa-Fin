@@ -31,6 +31,16 @@ To get started with Fipaa-Fin, follow these steps:
 3. **Data Preparation**:
    The dataset used in this study is available upon request. Please refer to the "Data Availability" section in the paper for details on how to request access.
 
+2. **Installation**:
+   Clone the repository and install the required packages:
+   ```bash
+   git clone https://github.com/tifoit/Fipaa-Fin.git
+   cd Fipaa-Fin
+   pip install -r requirements.txt
+
+3. **Data Preparation**:
+
+
 4.**Model Training**:
    Run the training script with the prepared dataset:
    ```bash
