@@ -48,5 +48,24 @@ To get started with Fipaa-Fin, follow these steps:
 - **Training Scripts**: The `training` directory contains scripts for training the model.
 - **Inference Scripts**: The `inference` directory contains scripts for using the trained model for predictions.
 
+## Contributing
+
+We welcome contributions to the Fipaa-Fin project. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you use Fipaa-Fin in your research, please cite our paper:
+`Duan, Z., Shi, Q., & Liu, Z. (2024). Interpretation of textual information in annual reports of listed companies -based on a fine-tuned large language model. Preprint submitted to Elsevier.`
+
+## Contact
+
+For any questions or further information, please contact the corresponding author:
+
+Zhuang Liu (liuzhuang@dufe.edu.cn)
+
 
 
